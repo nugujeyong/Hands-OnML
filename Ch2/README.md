@@ -1,2 +1,0 @@
-# Hands-OnML
-For Studying
